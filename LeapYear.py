@@ -1,3 +1,11 @@
+#
+# INPUT
+# Year
+#
+# OUTPUT
+# Is leap year?
+#
+
 def is_leap(year):
     leap = False
     

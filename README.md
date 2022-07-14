@@ -14,3 +14,11 @@ Conjunto de exemplos desenvolvidos durante o estudo de python
 
 * LeapYear.py
 * TemperatureConverter.py
+
+## Print features
+
+* PrintFunction.py
+
+## Sort
+
+* AthleteSort.py
